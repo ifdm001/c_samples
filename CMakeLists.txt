@@ -10,4 +10,4 @@ set(CMAKE_C_FLAGS_DEBUG ON)
 set(CMAKE_VERBOSE_MAKEFILE ON)
 
 add_executable (main main.c pointers_a.c pointers_b.c struct_a.c
-                list_a.c)
+                list_a.c callback.c)
